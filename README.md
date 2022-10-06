@@ -5,13 +5,13 @@
   #Hi there 👋
 
   <div id="badges" >
-    <a href="your-linkedin-URL">
+    <a href="[your-linkedin-URL](https://www.linkedin.com/in/chandrasehar-r-8358ab1b6/)">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="your-instagram-URL">
+    <a href="[your-instagram-URL](https://www.instagram.com/chandru____23/)">
       <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
-    <a href="your-twitter-URL">
+    <a href="[your-twitter-URL](https://twitter.com/chandru____23)">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   
