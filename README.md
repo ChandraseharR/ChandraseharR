@@ -28,19 +28,15 @@
   ---
 
   ### :man_technologist: About Me :
+  
+  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
+- 🔭 I’m currently a student at PSG College of Technology
+- 🌱 I’m currently learning MSc Software Systems 3rd Year
+- 👯 I’m looking to collaborate on frontend and backend for building web applications
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ... -->
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chandrasehar-r-8358ab1b6/)
+<!-- - 😄 Pronouns: ...
+- ⚡ Fun fact: ... -->
 
-<!--
-**ChandraseharR/ChandraseharR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
